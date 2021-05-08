@@ -17,7 +17,7 @@ public class PruebaGinaProyecto {
        System.out.println("hola mundo por alexis"); 
         System.out.println("Hola mundo By Noe");
         System.out.println("hola mundo por Mario"); 
-        
+        System.out.println("hola mundo por Daniel"); 
     }
     
 }
